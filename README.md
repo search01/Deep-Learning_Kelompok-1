@@ -10,7 +10,7 @@ Dokumen ini berisi informasi dan referensi terkait presentasi materi arsitektur 
    
 2. **InceptionV3**  
    Referensi implementasi pada Dermalysis App:  
-   .[Inception](https://github.com/Capstone-Bangkit-Academy-Dermalysis-App])
+   [Inception](https://github.com/Capstone-Bangkit-Academy-Dermalysis-App])
 
 3. **MobileNet Arsitektur**  
    Referensi implementasi:  
