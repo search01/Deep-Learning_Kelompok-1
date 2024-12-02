@@ -1,6 +1,16 @@
 # Kelompok 1: Materi Arsitektur CNN
-
-Dokumen ini berisi informasi dan referensi terkait presentasi materi arsitektur Convolutional Neural Networks (CNN).
+G1A021017   Rosalia Dina Marina Sipahutar  
+G1A021021   Rimaya Dwi Atika  
+G1A021024   Ilham Dio Putra  
+G1A021029   Yulia Pratiwi  
+G1A021042   Esti Asmareta Ayu  
+G1A021053   Zabrila Amrina Zadia Putri  
+G1A021060   Revaldo Relinsyah  
+G1A021064   Parulian Agustinus Hutapea  
+G1A021071   Rahayu Ningrum Puspa R  
+G1A021076   Arief Satrio Budi Prasojo 
+ 
+Github ini berisi informasi dan referensi kode terkait materi arsitektur Convolutional Neural Networks (CNN).
 
 ## Referensi Materi
 
